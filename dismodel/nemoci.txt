@@ -1,0 +1,15 @@
+0;100;600;80;0,200,120;255,160,0;Myesthenia Gravis;AChR,MuSK,Titin,LPL4
+1;200;600;80;0,200,120;255,160,0;Stiff-person syndrom;Amphiphysin,GAD65
+2;300;600;80;0,200,120;255,160,0;Mozečková degenerace;CV2,Hu,Yo,Ri,Tr,ZlC4,SOX1,MA1,MA2
+3;400;600;80;0,200,120;255,160,0;Mozečková ataxie;GAD65
+4;500;600;80;0,200,120;255,160,0;Limbická encefalitida;CV2,Hu,Amphiphysin,Ri,GAD65,NMDAR,LGl1,Caspr2,MA2
+5;100;700;80;0,200,120;255,160,0;Klíšťová? encefalitida;CV2,Hu,Ri,NMDAR,MA2
+6;200;700;80;0,200,120;255,160,0;Syndrom opso-myoklonus;Hu,Amphiphysin,Ri,MA2
+7;300;700;80;0,200,120;255,160,0;Encefalo- myelitida;CV2,Hu,Amphiphysin,MOG
+8;400;700;80;0,200,120;255,160,0;Senzorická neuropatie;CV2,Hu,Amphiphysin,SOX1
+9;500;700;80;0,200,120;255,160,0;Morvanův syndrom;LGl1,Caspr2
+10;100;800;80;0,200,120;255,160,0;Lambert Eatonův-s.;SOX1
+11;200;800;80;0,200,120;255,160,0;Autoimunitní Retinopatie;Recoverin
+12;300;800;80;0,200,120;255,160,0;Neuromyelitis optica;AQP4,MOG
+13;400;800;80;70,140,140;255,160,0;Chronická epilepsie;GAD65
+14;500;800;80;70,140,140;255,160,0;Periferní neuropatie;MAG
