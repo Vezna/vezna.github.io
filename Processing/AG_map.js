@@ -401,8 +401,6 @@ function setup() {
   xmax = windowWidth - 5;
   ymax = windowHeight - 5;
   rescale();
-  createCanvas(xmax, ymax);
-  canvas.parent("sketch-holder");
   console.log(jsonData.elements.length);
   console.log(jsonData.buttons.length);
   //loads buttons
