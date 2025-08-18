@@ -397,10 +397,10 @@ function windowResized(){
 }
 
 function setup() {
-
   xmax = windowWidth - 5;
   ymax = windowHeight - 5;
   rescale();
+  createCanvas(xmax, ymax);
   console.log(jsonData.elements.length);
   console.log(jsonData.buttons.length);
   //loads buttons
