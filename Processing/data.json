@@ -523,7 +523,7 @@
 		"greenHueSelected": 200,
 		"blueHueSelected": 80,
 		"xPos": null,
-		"yPos": 1,
+		"yPos": 0.05,
 		"radius": 50,
 		"displayedText": "Play"
 	},
@@ -537,7 +537,7 @@
 		"greenHueSelected": 200,
 		"blueHueSelected": 80,
 		"xPos": null,
-		"yPos": 2,
+		"yPos": 0.09,
 		"radius": 50,
 		"displayedText": "Heat experiment"
 	},
@@ -551,7 +551,7 @@
 		"greenHueSelected": 200,
 		"blueHueSelected": 80,
 		"xPos": null,
-		"yPos": 3,
+		"yPos": 0.13,
 		"radius": 50,
 		"displayedText": "Connection penalisation+"
 	},
@@ -565,7 +565,7 @@
 		"greenHueSelected": 200,
 		"blueHueSelected": 80,
 		"xPos": null,
-		"yPos": 3.5,
+		"yPos": 0.18,
 		"radius": 50,
 		"displayedText": "Connection penalisation-"
 	}
