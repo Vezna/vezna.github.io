@@ -503,6 +503,18 @@ function activateButton(ButtonNo) {
 		 Buttons[1].dehighlight();
 	  }
 	  temperature = 100;
+	//partner_discreditor_up
+	case "2":
+	  connection_discreditor = connection_discreditor * 1.1;
+	//partner_discreditor_down
+	case "3":
+	  if (connection_discreditor > 0.01) {
+		connection_discreditor = connection_discreditor * 0.9;
+	  }
+	//repulsion_up
+	//repulsion_down
+	//attraction_up
+	//attraction_down
 	}
 }
 function user_click() {
@@ -600,7 +612,7 @@ function rescale() {
 		//Height is smaller
 		scale = ymax / (1080 - 5);
 	txtSize = Math.round(scale*initialtxtSize);
-	distThresholdScaled = Math.pow((100*scale),2);
+	distThresholdScaled = Math.pow((130*scale),2);
 	
 	}
 }
@@ -609,7 +621,7 @@ function draw() {
   background(120,255,255);
   fill(255,120,255);
   //heat experiment
-  if (heatExperimentActive) {
+  if (temperature > 0) {
 	  if (temperature > 50) {
 		  temperature = temperature - 0.1;
 	  }
