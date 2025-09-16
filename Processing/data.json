@@ -449,7 +449,7 @@
 		"yPos": 0.4,
 		"radius": 50,
 		"displayedText": "Mozečková degenerace",
-		"partners": ["CV2","Ri (NOVA1)","SOX1","Tr(DNER)","Yo","Zic4"]
+		"partners": ["CV2","Ri","SOX1","Tr(DNER)","Yo","Zic4"]
 	},
 	{
 		"type": "syndrome",
@@ -537,37 +537,9 @@
 		"greenHueSelected": 200,
 		"blueHueSelected": 80,
 		"xPos": null,
-		"yPos": 0.09,
+		"yPos": 0.15,
 		"radius": 50,
 		"displayedText": "Heat experiment"
-	},
-	{
-		"type": "clickable",
-		"name": "play",
-		"normalRedHue": 200,
-		"normalGreenHue": 200,
-		"NormalBlueHue": 200,
-		"redHueSelected": 200,
-		"greenHueSelected": 200,
-		"blueHueSelected": 80,
-		"xPos": null,
-		"yPos": 0.13,
-		"radius": 50,
-		"displayedText": "Connection penalisation+"
-	},
-	{
-		"type": "clickable",
-		"name": "play",
-		"normalRedHue": 200,
-		"normalGreenHue": 200,
-		"NormalBlueHue": 200,
-		"redHueSelected": 200,
-		"greenHueSelected": 200,
-		"blueHueSelected": 80,
-		"xPos": null,
-		"yPos": 0.18,
-		"radius": 50,
-		"displayedText": "Connection penalisation-"
 	}
   ]
 }
