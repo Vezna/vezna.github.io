@@ -344,7 +344,7 @@
 		"yPos": 0.4,
 		"radius": 50,
 		"displayedText": "Limbická encefalitida",
-		"partners": ["Amfifyzin","Caspr2","CV2","GAD65","Hu (ELAVL)","LGI1","Ma1","NMDAR","PNMA(MA2/Ta)","Ri (NOVA1)","Zic4"]
+		"partners": ["Amfifyzin","Caspr2","CV2","GAD65","Hu","LGI1","Ma1","NMDAR","PNMA(MA2/Ta)","Ri","Zic4"]
 	},
 	{
 		"type": "syndrome",
@@ -374,7 +374,7 @@
 		"yPos": 0.6,
 		"radius": 50,
 		"displayedText": "Sensori/motorická neuropatie",
-		"partners": ["Amfifyzin","CV2","Hu (ELAVL)","Ma1","SOX1"]
+		"partners": ["Amfifyzin","CV2","Hu","Ma1","SOX1"]
 	},
 	{
 		"type": "syndrome",
@@ -404,7 +404,7 @@
 		"yPos": 0.1,
 		"radius": 50,
 		"displayedText": "Kmenová encefalitida",
-		"partners": ["AQP4","CV2","GAD65","Hu (ELAVL)","Ma1","PNMA(MA2/Ta)","Ri (NOVA1)"]
+		"partners": ["AQP4","CV2","GAD65","Hu","Ma1","PNMA(MA2/Ta)","Ri"]
 	},
 	{
 		"type": "syndrome",
