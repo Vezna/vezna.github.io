@@ -166,7 +166,7 @@ class ActiveElement{
 		console.log("CordA is" + cordA.toString());
 		console.log("CordB is" + cordB.toString());
 		let direction = Math.sign(cordA-cordB);
-		let multiplier = 0.001;
+		let multiplier = 0.002;
 		let velocity = direction * multiplier * Math.pow((cordA-cordB),2);
 		console.log("Direction is:" + direction.toString());
 		console.log("Multiplier is:" + multiplier.toString());
@@ -190,7 +190,7 @@ class ActiveElement{
 			return 0;
 		}
 		let direction = Math.sign(cordAX-cordBX);
-		let multiplier = -4;
+		let multiplier = -8;
 		let powerFraction = Math.pow((cordAX-cordBX),2)/(cSquare);
 		let velocity = (direction * multiplier * powerFraction);
 

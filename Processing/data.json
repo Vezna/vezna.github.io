@@ -344,7 +344,7 @@
 		"yPos": 0.4,
 		"radius": 50,
 		"displayedText": "Limbická encefalitida",
-		"partners": ["Amfifyzin","Caspr2","CV2","GAD65","Hu","LGI1","Ma1","NMDAR","PNMA(MA2/Ta)","Ri","Zic4"]
+		"partners": ["Amfifyzin","Caspr2","CV2","GAD65","Hu","LGI","Ma1","NMDAR","PNMA(MA2/Ta)","Ri","Zic4"]
 	},
 	{
 		"type": "syndrome",
